@@ -1,0 +1,9 @@
+.dog-container {
+    align-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    font-weight: bold;
+    flex: 1;
+    /* padding: 12px 24px; */
+    font-size: 150%;
+}
